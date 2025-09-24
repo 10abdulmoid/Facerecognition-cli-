@@ -1,0 +1,2 @@
+# This file ensures the captured_photos directory is tracked by Git
+# Photos captured via the photo capture system will be saved here in person-specific subdirectories

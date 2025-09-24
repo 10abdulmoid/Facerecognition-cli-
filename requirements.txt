@@ -1,0 +1,10 @@
+numpy==1.26.4
+opencv-python==4.10.0.84
+onnxruntime==1.22.1
+insightface==0.7.3
+Pillow==10.4.0
+matplotlib==3.9.2
+scikit-learn==1.5.2
+mxnet==1.9.1
+albumentations==1.4.16
+tqdm==4.66.5
